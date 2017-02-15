@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		20C933EF1E547F5A00E4B385 /* WoringWIthViewsInCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WoringWIthViewsInCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		20C933EF1E547F5A00E4B385 /* WorkingWIthViewsInCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkingWIthViewsInCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20C933F21E547F5A00E4B385 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20C933F41E547F5A00E4B385 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		20C933F71E547F5A00E4B385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		20C933F01E547F5A00E4B385 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				20C933EF1E547F5A00E4B385 /* WoringWIthViewsInCode.app */,
+				20C933EF1E547F5A00E4B385 /* WorkingWIthViewsInCode.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		20C933EE1E547F5A00E4B385 /* WoringWIthViewsInCode */ = {
+		20C933EE1E547F5A00E4B385 /* WorkingWIthViewsInCode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20C934011E547F5A00E4B385 /* Build configuration list for PBXNativeTarget "WoringWIthViewsInCode" */;
+			buildConfigurationList = 20C934011E547F5A00E4B385 /* Build configuration list for PBXNativeTarget "WorkingWIthViewsInCode" */;
 			buildPhases = (
 				20C933EB1E547F5A00E4B385 /* Sources */,
 				20C933EC1E547F5A00E4B385 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = WoringWIthViewsInCode;
+			name = WorkingWIthViewsInCode;
 			productName = WoringWIthViewsInCode;
-			productReference = 20C933EF1E547F5A00E4B385 /* WoringWIthViewsInCode.app */;
+			productReference = 20C933EF1E547F5A00E4B385 /* WorkingWIthViewsInCode.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 20C933EA1E547F5A00E4B385 /* Build configuration list for PBXProject "WoringWIthViewsInCode" */;
+			buildConfigurationList = 20C933EA1E547F5A00E4B385 /* Build configuration list for PBXProject "WorkingWIthViewsInCode" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				20C933EE1E547F5A00E4B385 /* WoringWIthViewsInCode */,
+				20C933EE1E547F5A00E4B385 /* WorkingWIthViewsInCode */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		20C933EA1E547F5A00E4B385 /* Build configuration list for PBXProject "WoringWIthViewsInCode" */ = {
+		20C933EA1E547F5A00E4B385 /* Build configuration list for PBXProject "WorkingWIthViewsInCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C933FF1E547F5A00E4B385 /* Debug */,
@@ -295,13 +295,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20C934011E547F5A00E4B385 /* Build configuration list for PBXNativeTarget "WoringWIthViewsInCode" */ = {
+		20C934011E547F5A00E4B385 /* Build configuration list for PBXNativeTarget "WorkingWIthViewsInCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C934021E547F5A00E4B385 /* Debug */,
 				20C934031E547F5A00E4B385 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
