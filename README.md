@@ -7,8 +7,8 @@ This recipe for **cereal and milk** has been passed down my family for months.
 
 ##Ingredients
 
-    - Cereal (you can find cool cereals [here](http://example.com/coolcereals/))
-    - Milk
+   * Cereal (you can find cool cereals [here](http://example.com/coolcereals/))
+   * Milk
 
 ##Directions
 
