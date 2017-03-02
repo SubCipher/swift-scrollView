@@ -3,7 +3,7 @@ swift-scrollView and independent textFileds
 
 #Git markup syntax
 
-use _**_ for ** for bold** has been passed down my family for months.
+use _**bold this**_ for ** for bold**.
 
 ##Ingredients
 
